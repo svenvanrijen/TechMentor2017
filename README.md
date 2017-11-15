@@ -1,3 +1,5 @@
 # TechMentor2017
 
-Nothing here yet. All demo materials of my presentation will be posted here after the event.
+Thank you for visting my session @ TechMentor Orlando 2017.
+
+You can find my presentation and all demo scripts right here!

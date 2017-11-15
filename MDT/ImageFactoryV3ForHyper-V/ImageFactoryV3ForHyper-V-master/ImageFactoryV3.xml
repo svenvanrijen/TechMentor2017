@@ -1,0 +1,19 @@
+﻿<Settings>
+  <ConcurrentRunningVMs>3</ConcurrentRunningVMs>
+ <MDT>
+  <DeploymentShare>C:\MDTBuildLab\DS</DeploymentShare>
+  <RefTaskSequenceFolderName>REF</RefTaskSequenceFolderName>
+  <ValidateTaskSequenceFolderName>Validate</ValidateTaskSequenceFolderName>
+  <ValidateOSImageFolderName>Validate</ValidateOSImageFolderName>
+ </MDT>
+ <HyperV>
+  <StartUpRAM>4</StartUpRAM>
+  <VLANID>0</VLANID>
+  <Computername>L0148148</Computername>
+  <SwitchName>Internet</SwitchName>
+  <VMLocation>C:\VMs</VMLocation>
+  <ISOLocation>C:\MDTBuildLab\DS\Boot</ISOLocation>
+  <VHDSize>80</VHDSize>
+  <NoCPU>2</NoCPU>
+ </HyperV>
+</Settings>
